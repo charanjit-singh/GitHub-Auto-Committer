@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 0 */4 * * * ~/GitHub-Auto-Committer/script.sh; date >> ~/GitHub-Auto-Committer/logs
+=======
+0 */3 * * * ~/GitHub-Auto-Committer/script.sh; date >> ~/GitHub-Auto-Committer/logs
+>>>>>>> 885181fd35ae69968cd007f1abda60e598818a8b
